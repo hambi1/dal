@@ -1,0 +1,19 @@
+.bg-navbar {
+  background-color: rgb(147, 163, 122);
+}
+
+.shadow-choose {
+  box-shadow: 0 2px black;
+  transform: translateY(-2px);
+}
+.card-single {
+  background-color: rgb(78, 75, 71);
+  color: rgb(188, 73, 16);
+}
+.card-single:hover {
+  background-color: rgb(173, 87, 25);
+  color: white;
+}
+.text-justify {
+  text-align: justify;
+}
